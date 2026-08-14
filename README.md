@@ -1,6 +1,6 @@
-# 🍺 Algoritmos y Programación I - Proyecto Integrador (Los Simpson)
+# 🍺 Algoritmos y Programación I - Trabajos Prácticos (2C2025)
 
-Este repositorio contiene las entregas de los Trabajos Prácticos (TP0, TP1 y TP2) desarrollados para la materia **Algoritmos y Programación I**. Todas las prácticas están ambientadas en el universo de **Los Simpson** y giran en torno al icónico **Bar de Moe**.
+Este repositorio contiene las entregas de los Trabajos Prácticos (TP0, TP1 y TP2) desarrollados para la materia **Algoritmos y Programación I** durante el **Segundo Cuatrimestre de 2025 (2C2025)**. Todas las prácticas están ambientadas en el universo de **Los Simpson** y giran en torno al icónico **Bar de Moe**.
 
 ---
 
