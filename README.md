@@ -1,6 +1,6 @@
 # Algoritmos y Programación I - Trabajos Prácticos (2C2025)
 
-Este repositorio contiene las entregas de los Trabajos Prácticos (TP0, TP1 y TP2) desarrollados para la materia **Algoritmos y Programación I** durante el **Segundo Cuatrimestre de 2025 (2C2025)**. Todas las prácticas están ambientadas en el universo de **Los Simpson** y giran en torno al icónico **Bar de Moe**.
+Este repositorio contiene las entregas de los Trabajos Prácticos (TP0, TP1 y TP2) desarrollados para la materia **Algoritmos y Programación I** durante el **Segundo Cuatrimestre de 2025 (2C2025)**. Todas las prácticas están ambientadas en el universo de **Los Simpson**.
 
 ---
 
@@ -13,6 +13,8 @@ Este repositorio contiene las entregas de los Trabajos Prácticos (TP0, TP1 y TP
 ---
 
 ## 🍸 TP0: La Llamarada Moe
+
+## Este es el único TP del cual no cuento con el enunciado en PDF.
 
 ### 📖 Descripción
 Un cuestionario interactivo en consola donde el usuario responde las preguntas de Moe Szyslak antes de pedir un trago. El programa evalúa la edad del cliente y calcula su estado de ebriedad según las decisiones tomadas durante el pedido.
