@@ -107,6 +107,8 @@ Un juego de simulación de seguridad y control de acceso en la puerta del Bar de
 
 ## 🛠️ Compilación y Ejecución
 
+**Puede usarse el ejecutable que ya viene creado en cada TP**
+
 ### Prerrequisitos
 Tener instalado un compilador de C como `gcc`.
 
