@@ -13,8 +13,7 @@ Este repositorio contiene las entregas de los Trabajos Prácticos (TP0, TP1 y TP
 ---
 
 ## 🍸 TP0: La Llamarada Moe
-
-## Este es el único TP del cual no cuento con el enunciado en PDF.
+### <span style="color:red">Este es el único TP del cual no cuento con el enunciado en PDF.</span>
 
 ### 📖 Descripción
 Un cuestionario interactivo en consola donde el usuario responde las preguntas de Moe Szyslak antes de pedir un trago. El programa evalúa la edad del cliente y calcula su estado de ebriedad según las decisiones tomadas durante el pedido.
